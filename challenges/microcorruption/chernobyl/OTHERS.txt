@@ -1,1 +1,2 @@
 https://raw.githubusercontent.com/linuxp3nguin/microcorruption-1/master/CTF/CH
+https://github.com/EganMatthew/Microcorruption-Solutions/blob/master/%2318%20Chernobyl.md
