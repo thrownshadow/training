@@ -4,3 +4,4 @@ https://raw.githubusercontent.com/StevenDunn/CodeEval/master/MersennePrimes/c/mp
 https://raw.githubusercontent.com/StevenDunn/CodeEval/master/MersennePrimes/cpp/mp.cpp
 https://raw.githubusercontent.com/StevenDunn/CodeEval/master/MersennePrimes/py2/mp.py
 https://raw.githubusercontent.com/StevenDunn/CodeEval/master/MersennePrimes/py3/mp.py
+https://github.com/nikai3d/ce-challenges/blob/master/easy/mersenne_prime.rb

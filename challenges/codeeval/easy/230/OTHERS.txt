@@ -1,1 +1,2 @@
-https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/football/main.py
+https://www.codeeval.com/open_challenges/230/
+https://github.com/jtibbertsma/code-eval/blob/master/football/football.rb
