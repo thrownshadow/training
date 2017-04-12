@@ -12,7 +12,7 @@
     Y tengo instalado JAD
     Y tengo instalado Flasm
 
-  Escenario: Primer intento fallido
+  Escenario: Intento fallido
     Dada una página con una animación flash
     Cuando examino el código fuente de la página
     Y descargo la animación
@@ -21,7 +21,7 @@
     Entonces no resuelvo el reto
     Pero concluyo que debo inspeccionar mas el código fuente
 
-  Escenario: Segundo intento fallido
+  Escenario: Solución exitosa
     Dada una página con una animación flash
     Cuando examino el código fuente de la página
     Y encuentro un applet
