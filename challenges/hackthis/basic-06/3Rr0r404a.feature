@@ -4,11 +4,10 @@ Feature: Solve the challenge Basic Level 6
   With ny username 3Rr0r404a
 
   Scenario: Successful solution
-    Given a hint that the web server runs a suspicious service
-    When I use namp -sV ip_site -p 1-fin_port to scan the ports of the server
-	    And I change the fin_port value until scan the 65535 ports
-	    And find a known service running on port 6776
-	    And I use netcat to connect to the port
-	    And read the banner
-	    And use the word found into the answer field
+    Given a web page with a form
+    When I use myip.ms for search the ip and hosting of hackthis.co.uk
+	    And I read the forum to know what is the X-B6 header
+      And I open a email from hackthis in my hotmail email account
+	    And I view the source code of the email looking for X-B6
+	    And I use the recolected data in the form
     Then I solve the challenge
